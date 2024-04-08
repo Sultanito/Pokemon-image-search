@@ -1,4 +1,4 @@
-// Pokemon Image Display
+// Pokemon Image Displаy
 
 async function fetchData(){
 
